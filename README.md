@@ -1,2 +1,2 @@
 # c-stuff
-just learning
+writing bullshit to learn
